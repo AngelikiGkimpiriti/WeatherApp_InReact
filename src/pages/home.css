@@ -1,0 +1,18 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: #B1B2FF;
+}
+
+main {
+  padding-top: 5rem; /* matches header height */
+  padding-left: 15vw;
+}
+
+.cont{
+   max-width: 600px;
+  margin: 0 auto;
+}

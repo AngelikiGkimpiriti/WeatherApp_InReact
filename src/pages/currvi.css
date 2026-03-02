@@ -1,0 +1,39 @@
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background:  #9e3b3b;
+}
+
+.cont{
+  
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+     gap: 1.5rem;
+    width: 60vw;
+  max-width: 1200px;
+   padding:20%;
+    margin:5% auto;
+    
+}
+
+.a{
+   
+}
+
+.b{
+    
+}
+
+.c{
+    
+}
+
+.d{
+     display:grid;
+    grid-template-columns:50% 50% ;
+    
+}
