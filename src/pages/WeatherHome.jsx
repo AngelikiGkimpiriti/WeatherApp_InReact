@@ -1,6 +1,6 @@
 import Navbar from '../components/home/Navbar'
 import Table from '../components/weatherapp/wTable'
-import Form  from '../components/weatherapp/wForm'
+import Form  from '../components/weatherapp/WForm'
 
 
 import { useState, useEffect } from "react";
